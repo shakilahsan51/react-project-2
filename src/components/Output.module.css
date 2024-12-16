@@ -1,0 +1,12 @@
+.output {
+  border: 2px solid grey;
+  width: 300px;
+}
+
+.output h2 {
+  text-align: center;
+}
+
+.output p {
+  font-weight: 700;
+}
